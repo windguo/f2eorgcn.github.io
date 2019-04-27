@@ -1,0 +1,1 @@
+document.write("<option value=21>|-头像</option><option value=22>|-配饰</option>");

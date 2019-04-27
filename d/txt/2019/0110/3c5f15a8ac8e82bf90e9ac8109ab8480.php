@@ -1,0 +1,1 @@
+<? exit();?><img alt=\"\" src=\"http://www.yishuzi.com.cn/d/file/2019/01-10/693c624aaee4bb75b396d26038c46064.png\" style=\"width: 800px; height: 600px;\" />

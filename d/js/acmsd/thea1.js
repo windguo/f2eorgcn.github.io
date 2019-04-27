@@ -1,0 +1,1 @@
+document.write("<a href='/e/public/ClickAd?adid=1' target=_self><img src='http://www.aitouxiang.cn/d/file/2019/02-11/3b24e46d4af36ed76c6cfb1c4a87d9d2.jpg' border=0 width='0' height='0' alt=''></a>");

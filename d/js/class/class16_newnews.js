@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/shop/3\" title=\"test2\">test2</a></li><li><a href=\"/shop/1\" title=\"山体\">山体</a></li>");
